@@ -1,0 +1,14 @@
+{
+  "name": "deweb-desktop-web",
+  "version": "0.1.0",
+  "private": false,
+  "description": "DeWEB on-chain Web desktop source",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build:onchain": "node scripts/build-onchain.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
