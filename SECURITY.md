@@ -2,8 +2,9 @@
 
 ## Reporting
 
-Please report vulnerabilities privately to the maintainer instead of opening a
-public issue with exploit details.
+Use this repository's **Security → Report a vulnerability** flow (GitHub
+private security advisories). Do not open a public issue with exploit details,
+secrets, wallet addresses, or user data.
 
 ## Secrets
 
